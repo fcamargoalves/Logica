@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73b21e01-2419-4e22-9d6a-68df4b3e002d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CursoLogica" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="28TQc1I1e8CCDkBazvY1VriFM2L" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.model.orientacaoobjeto.metodoIstancia" />
+      <recent name="br.com.model.iteracao.enquanto" />
+      <recent name="br.com.model.iteracao" />
+      <recent name="br.com.model.estruturadecisao" />
+      <recent name="br.com.model.operadores" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestaPedido">
+    <configuration name="Encapsulamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.model.orientacaoobjeto.encapsulamento.Encapsulamento" />
+      <module name="CursoLogica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.model.orientacaoobjeto.encapsulamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.model.orientacaoobjeto.metodoIstancia.exercico2.Exercicio02" />
+      <module name="CursoLogica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.model.orientacaoobjeto.metodoIstancia.exercico2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetodoIntancia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.model.orientacaoobjeto.metodoIstancia.exercico1.MetodoIntancia" />
+      <module name="CursoLogica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.model.orientacaoobjeto.metodoIstancia.exercico1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetodoIntanciaMelhorado2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.model.orientacaoobjeto.metodoIstancia.exercico1.MetodoIntanciaMelhorado2" />
+      <module name="CursoLogica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.model.orientacaoobjeto.metodoIstancia.exercico1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaPedido" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.model.orientacaoobjeto.encapsulamento.TestaPedido" />
+      <module name="CursoLogica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.model.orientacaoobjeto.encapsulamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestaPedido" />
+        <item itemvalue="Application.Encapsulamento" />
+        <item itemvalue="Application.Exercicio02" />
+        <item itemvalue="Application.MetodoIntanciaMelhorado2" />
+        <item itemvalue="Application.MetodoIntancia" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73b21e01-2419-4e22-9d6a-68df4b3e002d" name="Default Changelist" comment="" />
+      <created>1651238171244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651238171244</updated>
+      <workItem from="1651238173298" duration="2276000" />
+      <workItem from="1651672454201" duration="4965000" />
+      <workItem from="1651758021939" duration="4502000" />
+      <workItem from="1651836959074" duration="5328000" />
+      <workItem from="1652185359403" duration="7761000" />
+      <workItem from="1652274406862" duration="4442000" />
+      <workItem from="1652715603351" duration="147000" />
+      <workItem from="1652715788230" duration="56000" />
+      <workItem from="1652716981563" duration="1264000" />
+      <workItem from="1652718290818" duration="205000" />
+      <workItem from="1652718527655" duration="2427000" />
+      <workItem from="1653405171741" duration="2814000" />
+      <workItem from="1653495285506" duration="60000" />
+      <workItem from="1653998162766" duration="149000" />
+      <workItem from="1654727539883" duration="3390000" />
+      <workItem from="1654780816020" duration="604000" />
+      <workItem from="1654781469220" duration="983000" />
+      <workItem from="1654787593947" duration="27000" />
+      <workItem from="1656553843240" duration="3988000" />
+      <workItem from="1656587685171" duration="612000" />
+      <workItem from="1656720953119" duration="1916000" />
+      <workItem from="1656932748579" duration="568000" />
+      <workItem from="1656933358362" duration="91000" />
+      <workItem from="1658172288539" duration="731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
